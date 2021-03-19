@@ -5,4 +5,5 @@
 Olá, benvindo ao livro de receitas. :book:
 
 - Strogonoff de frango
+- Escondidinho de Frange
 - Pavê
