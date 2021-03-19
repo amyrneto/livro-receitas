@@ -4,6 +4,7 @@
 
 Olá, benvindo ao livro de receitas. :book:
 
-- Strogonoff de frango
-- Teste de conflito
+- Strogonoff de Frango
+- Escondidinho de Frango
 - Pavê
+- Bolo de cenoura
